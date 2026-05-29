@@ -1,0 +1,4 @@
+/about
+/contact
+/privacy
+/services
